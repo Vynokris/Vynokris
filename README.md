@@ -1,8 +1,8 @@
 <img align="center" src="banner.png"/>
 
-<p>I am currently studying video game programming at the <a href="https://www.isart.fr/" target="_blank">ISART Digital Paris</a> school.</p>
+<p><b>I am currently studying video game programming at the <a href="https://www.isart.fr/" target="_blank">ISART Digital Paris</a> school.</b></p>
 
-<p>Some of my projects can be played on my <a href="https://vynokris.itch.io/" target="_blank">itch.io</a> page.</p>
+<p><b>Some of my projects can be played on my <a href="https://vynokris.itch.io/" target="_blank">itch.io</a> page.</b></p>
 
 
 <!--

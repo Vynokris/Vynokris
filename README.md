@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>🏆 Github Profile Trophies</h1>
+
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Vynokris&theme=onedark&no-frame=false&column=-1&margin-w=10%22/%3E
+
+<h1>🚀 Github Profile Statistics</h1>
+
+<img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=Vynokris&count_private=true&include_all_commits=true&theme=onedark&show_icons=true" />
+
+<img height="160" src="http://github-readme-stats.vercel.app/api/top-langs/?username=Vynokris&layout=compact&theme=onedark&langs_count=6&hide=Objective-C,CMake,HLSL,ShaderLab,Makefile,GLSL&count_private=true" />

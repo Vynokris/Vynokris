@@ -2,6 +2,8 @@
 
 <h3>I am currently studying video game development at the <a href="https://www.isart.fr/" target="_blank">ISART Digital Paris</a> school.</h3>
 
+<h3>To learn more about me or contact me, check out my <a href="https://vynokris.github.io" target="_blank">portfolio website</a>.
+
 <h3>Some of my projects can be played on my <a href="https://vynokris.itch.io/" target="_blank">itch.io</a> page.</h3>
 
 

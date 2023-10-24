@@ -1,6 +1,6 @@
-## I'm Rémi Serra, a Game Programmer
+## I'm Vynokris, a Game Programmer
 
-<img align="center" src="portfolioPhoto.png"/>
+<img align="center" src="banner.png"/>
 
 ### I am currently studying video game programming at the [ISART Digital Paris](https://www.isart.fr/) school.
 

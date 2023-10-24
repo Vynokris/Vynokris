@@ -1,12 +1,12 @@
-## I'm Vynokris, a Game Programmer
+## [I'm Vynokris, a Game Programmer](#title-anchor)
 
 <img align="center" src="banner.png"/>
 
-### I am currently studying video game programming at the [ISART Digital Paris](https://www.isart.fr/) school.
+I am currently studying video game programming at the [ISART Digital Paris](https://www.isart.fr/) school.
 
-### To learn more about me or contact me, check out my [portfolio website](https://vynokris.github.io).
+To learn more about me or contact me, check out my [portfolio website](https://vynokris.github.io).
 
-### Some of my projects can be played on my [itch.io](https://vynokris.itch.io/) page.
+Some of my projects can be played on my [itch.io](https://vynokris.itch.io/) page.
 
 
 <!--

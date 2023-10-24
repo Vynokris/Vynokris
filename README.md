@@ -1,4 +1,4 @@
-## [I'm Vynokris, a Game Programmer](#title-anchor)
+## I'm Vynokris, a Game Programmer
 
 <img align="center" src="banner.png"/>
 

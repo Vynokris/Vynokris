@@ -1,10 +1,12 @@
-<img align="center" src="banner.png"/><br><br>
+## I'm Vynokris (Rémi Serra), a Game Programmer
 
-<h3>I am currently studying video game development at the <a href="https://www.isart.fr/" target="_blank">ISART Digital Paris</a> school.</h3>
+<img align="center" src="portfolioPhoto.png"/>
 
-<h3>To learn more about me or contact me, check out my <a href="https://vynokris.github.io" target="_blank">portfolio website</a>.
+### I am currently studying video game programming at the [ISART Digital Paris](https://www.isart.fr/) school.
 
-<h3>Some of my projects can be played on my <a href="https://vynokris.itch.io/" target="_blank">itch.io</a> page.</h3>
+### To learn more about me or contact me, check out my [portfolio website](https://vynokris.github.io).
+
+### Some of my projects can be played on my [itch.io](https://vynokris.itch.io/) page.
 
 
 <!--

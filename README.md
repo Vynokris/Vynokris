@@ -1,4 +1,4 @@
-## I'm Vynokris (Rémi Serra), a Game Programmer
+## I'm Rémi Serra, a Game Programmer
 
 <img align="center" src="portfolioPhoto.png"/>
 

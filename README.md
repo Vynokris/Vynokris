@@ -4,9 +4,7 @@
 
 I am currently studying video game programming at the [ISART Digital Paris](https://www.isart.fr/) school.
 
-To learn more about me or contact me, check out my [portfolio website](https://vynokris.github.io).
-
-Some of my projects can be played on my [itch.io](https://vynokris.itch.io/) page.
+To learn more about me or contact me, check out my [LinkTree](https://linktr.ee/vynokris).
 
 
 <!--
